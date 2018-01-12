@@ -1,0 +1,12 @@
+F:\HCDZ\Hcdz\Hcdz\bin\Debug\Hcdz.dll
+F:\HCDZ\Hcdz\Hcdz\bin\Debug\Hcdz.pdb
+F:\HCDZ\Hcdz\Hcdz\obj\Debug\Hcdz.csprojResolveAssemblyReference.cache
+F:\HCDZ\Hcdz\Hcdz\obj\Debug\Hcdz.csproj.CoreCompileInputs.cache
+F:\HCDZ\Hcdz\Hcdz\obj\Debug\Hcdz.dll
+F:\HCDZ\Hcdz\Hcdz\obj\Debug\Hcdz.pdb
+F:\HCDZ\Hcdz\bin\Debug\Hcdz.dll
+F:\HCDZ\Hcdz\bin\Debug\Hcdz.pdb
+F:\HCDZ\Hcdz\obj\Debug\Hcdz.csprojResolveAssemblyReference.cache
+F:\HCDZ\Hcdz\obj\Debug\Hcdz.csproj.CoreCompileInputs.cache
+F:\HCDZ\Hcdz\obj\Debug\Hcdz.dll
+F:\HCDZ\Hcdz\obj\Debug\Hcdz.pdb

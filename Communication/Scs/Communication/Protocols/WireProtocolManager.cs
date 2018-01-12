@@ -24,5 +24,13 @@ namespace Hcdz.Communication.Scs.Communication.Protocols
         {
             return new BinarySerializationProtocol();
         }
+        public static IScsWireProtocol GetTextWireProtocol()
+        {
+            return new TextWireProtocol();
+        }
+        public static IScsWireProtocol GetRawDataWireProtocol()
+        {
+            return new RawDataWireProtocol();
+        }
     }
 }

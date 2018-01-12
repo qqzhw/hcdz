@@ -90,6 +90,8 @@
     <Compile Include="Communication\Scs\Communication\Protocols\BinarySerialization\BinarySerializationProtocolFactory.cs" />
     <Compile Include="Communication\Scs\Communication\Protocols\IScsWireProtocol.cs" />
     <Compile Include="Communication\Scs\Communication\Protocols\IScsWireProtocolFactory.cs" />
+    <Compile Include="Communication\Scs\Communication\Protocols\RawDataWireProtocol.cs" />
+    <Compile Include="Communication\Scs\Communication\Protocols\TextWireProtocol.cs" />
     <Compile Include="Communication\Scs\Communication\Protocols\WireProtocolManager.cs" />
     <Compile Include="Communication\Scs\Server\IScsServer.cs" />
     <Compile Include="Communication\Scs\Server\IScsServerClient.cs" />
